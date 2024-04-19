@@ -1,0 +1,1 @@
+winSecure is a Windows utility designed to bolster system security by automatically capturing and storing an image whenever an attempt is made to unlock the Windows session. Leveraging the built-in camera, the program snaps a photo upon detecting any unlock action, fortifying protection against unauthorized access.
